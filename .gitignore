@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.crt
+id_rsa
+id_rsa*
+*.kdbx
+*-creds
+.*-creds
+venv/
+.venv/
+__pycache__/
+*.log
